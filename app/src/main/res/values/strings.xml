@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Application</string>
+    <string name="title">Travel with vi</string>
+    <string name="http_192_168_143_154_80_myapplication_userforgetpassword_php">http://192.168.143.154:80/MyApplication/userForgetPassword.php</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeBottomNavigationMenuHome"
+        android:title="Home"
+        android:icon="@drawable/sharp_home_24"/>
+
+    <item
+        android:id="@+id/homeBottomNavigationView"
+        android:title="Search"
+        android:icon="@drawable/sharp_search_24"/>
+
+    <item
+        android:id="@+id/homeBottomNavigationMenuTrip"
+        android:title="Trip"
+        android:icon="@drawable/tour_24"
+        android:iconTint="@color/teal"/>
+
+    <item
+        android:id="@+id/homeBottomNavigationNotification"
+        android:title="Notification"
+        android:icon="@drawable/sharp_notification_important_24"/>
+
+    <item
+        android:id="@+id/homeBottomNavigationMenu"
+        android:title="Menu"
+        android:icon="@drawable/sharp_menu_book_24"/>
+
+</menu>
